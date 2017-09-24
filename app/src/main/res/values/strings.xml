@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PowerHour</string>
+    <string name="welcomeText">Hello World</string>
+    <string name="desciption">PowerHour is a drinking game were the goal is to get shitfaced in
+        one hour. Every participant needs to take a 4cl shot of beer every minute for one hour.</string>
+    <string name="playButton">Play Game</string>
+</resources>
